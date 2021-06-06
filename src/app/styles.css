@@ -1,0 +1,13 @@
+:root {
+  --black: rgb(58, 58, 58);
+  --grey: rgb(205, 205, 205);
+  --white: rgb(240, 240, 240);
+  --blue: rgb(47, 36, 206);
+  --light-blue: rgb(0, 151, 252);
+  color: var(--black);
+
+  font-size: 16px;
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
